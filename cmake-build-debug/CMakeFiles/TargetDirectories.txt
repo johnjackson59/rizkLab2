@@ -1,0 +1,3 @@
+/Users/johnjackson/Documents/rizkLab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/johnjackson/Documents/rizkLab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johnjackson/Documents/rizkLab2/cmake-build-debug/CMakeFiles/rizkLab2.dir
