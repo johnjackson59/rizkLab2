@@ -3,4 +3,4 @@ project(rizkLab2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(rizkLab2 main.cpp)
+add_executable(rizkLab2 main.cpp ArgumentManager.h)

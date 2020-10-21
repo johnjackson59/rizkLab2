@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/johnjackson/Documents/rizkLab2/ArgumentManager.h">
+			<Option target="rizkLab2"/>
+		</Unit>
 		<Unit filename="/Users/johnjackson/Documents/rizkLab2/main.cpp">
 			<Option target="rizkLab2"/>
 		</Unit>

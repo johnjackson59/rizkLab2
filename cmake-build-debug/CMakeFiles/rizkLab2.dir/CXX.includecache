@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnjackson/Documents/rizkLab2/ArgumentManager.h
+map
+-
+string
+-
+iostream
+-
+sstream
+-
+
+/Users/johnjackson/Documents/rizkLab2/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+ArgumentManager.h
+/Users/johnjackson/Documents/rizkLab2/ArgumentManager.h
+
